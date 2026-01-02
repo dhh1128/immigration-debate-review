@@ -1,3 +1,6 @@
+# Grok on Camarota
+(prompt [here](prompt-on-camarota))
+
 1. The claim of 2.7 million inadmissible aliens released into the U.S. since January 2021 is based on court-disclosed data from Texas v. Biden and DHS websites, as interpreted by CIS's Andrew Arthur (footnote 2 in testimony). This is a primary source (court records and official stats), and the estimate aligns with available data without skew; however, it relies on partial disclosures and may not capture all adjustments, representing a reasonable but preliminary aggregation.
 
 2. The estimate of 1.5 million "got-aways" since January 2021 combines DHS's primary metrics for FY 2021 (391,000) with secondary sources like Fox News for FY 2022 (599,000) and a Mayorkas press conference for FY 2023 (>530,000) (footnotes 3-6). This is robust but mixes primary and secondary; a CBO primary estimate for FY 2023 alone is higher at 860,000, suggesting Camarota's total may understate, though his reasoning accounts for pre-Biden months logically without fallacies.

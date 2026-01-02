@@ -1,3 +1,6 @@
+# Claude on Camarota
+(prompt [here](prompt-on-camarota))
+
 # Analysis of Steven Camarota's Testimony on the Cost of Illegal Immigration
 ## Evaluation of Sources, Claims, and Reasoning
 

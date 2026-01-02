@@ -1,4 +1,5 @@
-🟢 R1
+# ChatGPT on NAS Report
+(prompt [here](prompt-on-NAS-report))
 
 Below is what I think you most need to know about the **National Academies (NAS/NASEM) 2017 report, *The Economic and Fiscal Consequences of Immigration*** in order to evaluate (a) whether it is “stale” given post-2017 policy changes and (b) whether Camarota’s use of it is methodologically faithful.
 

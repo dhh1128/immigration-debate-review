@@ -1,4 +1,7 @@
-🟢 R1 (P1) — Notable findings from a skeptical verification pass (15 items)
+# ChatGPT on Camarota
+(prompt [here](prompt-on-camarota))
+
+Notable findings from a skeptical verification pass (15 items)
 
 1. **The “record FY2022 overstay” claim is broadly supported by a DHS primary source, but Camarota’s narrative glosses over definitional nuance.** He asserts FY2022 overstays “hit a record” and cites DHS figures (850k; 3.67%).  DHS’s FY2022 Entry/Exit Overstay Report states a total overstay rate of **3.67%** and **853,955 overstay events**, which supports the numerical core. ([Department of Homeland Security][1]) The important nuance: “overstay events” are not the same thing as “people who became long-term unauthorized residents,” which Camarota partially acknowledges. 
 

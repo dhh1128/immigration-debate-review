@@ -1,4 +1,5 @@
-🟢 R1
+# ChatGPT on Cato and MI Reports
+(prompt [here](prompt-on-cato-and-mi-reports))
 
 Below is a skeptical-method review of (1) Cato’s 2023 “The Fiscal Impact of Immigration in the United States” and (2) Manhattan Institute’s 2025 “The Fiscal Impact of Immigration (2025 Update),” with explicit attention to (a) methodology choices that can drive narratives, (b) data quality, (c) inferential leaps, and (d) what each contributes (or obscures) relative to Camarota’s 2024 use of NAS.
 

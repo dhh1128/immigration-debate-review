@@ -1,3 +1,6 @@
+# Gemini on Camarota
+(prompt [here](prompt-on-camarota))
+
 Based on a review of Steven Camarota's testimony, combined with verification against the primary sources he cites (Census Bureau, National Academies, CBP) and external data (Pew Research, ITEP), here is an evaluation of the truth claims.
 
 ### **Report: Analysis of Testimony on the Fiscal Impact of Illegal Immigration**

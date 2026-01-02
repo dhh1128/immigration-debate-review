@@ -1,3 +1,6 @@
+# Gemini on Cato and MI Reports
+(prompt [here](prompt-on-cato-and-mi-reports))
+
 Here is a skeptical analysis of the Cato Institute (2023) and Manhattan Institute (2024/2025) reports, applying the same rigorous "honest skeptic" filter used on Camarota's testimony.
 
 ### Overview

@@ -1,3 +1,6 @@
+# Claude on other perspectives
+(prompt [here](prompt-on-other-perspectives))
+
 I'll identify several serious analytical frameworks that offer distinct perspectives beyond the Camarota-Zeihan axis. These represent genuinely different ways of thinking about immigration's costs and benefits, not just variations on the same themes.
 
 ## 1. **The Innovation and Entrepreneurship Framework** (Wadhwa, Kerr, Hunt)

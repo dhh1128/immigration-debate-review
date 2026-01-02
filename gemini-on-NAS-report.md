@@ -1,3 +1,6 @@
+# ChatGPT on NAS Report
+(prompt [here](prompt-on-NAS-report))
+
 This report analyzes the 2017 National Academies of Sciences, Engineering, and Medicine (NAS) report, "*The Economic and Fiscal Consequences of Immigration*," and how Steven Camarota utilizes it in his testimony.
 
 ### **Executive Summary**

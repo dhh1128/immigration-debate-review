@@ -1,3 +1,6 @@
+# Grok on Cato and MI Reports
+(prompt [here](prompt-on-cato-and-mi-reports))
+
 # Analysis of Cato Institute (2023) and Manhattan Institute (2025) Reports on Fiscal Impacts of Immigration
 
 ## Evaluation of Sources, Claims, and Reasoning
