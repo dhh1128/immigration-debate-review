@@ -2,7 +2,7 @@ I am analyzing testimony by Camarota, before Congress in 2024, about the negativ
 
 Illegal immigrants are a net fiscal drain, meaning they receive more in government services than they pay in taxes. This result is not due to laziness or fraud. Illegal immigrants actually have high rates of work, and they do pay some taxes, including income and payroll taxes. The fundamental reason that illegal immigrants are a net drain is that they have a low average education level, which results in low average earnings and tax payments. It also means a large share qualify for welfare programs, often receiving benefits on behalf of their U.S.-born children. Like their less-educated and low-income U.S.-born counterparts, the tax payments of illegal immigrants do not come close to covering the cost they create.
 
-In Ziehan's book, "The Accidental Superpower", he has one or more chapters on immigration, and he argues that immigration is a net positive because of demographic issues.
+In Zeihan's book, "The Accidental Superpower", he has one or more chapters on immigration, and he argues that immigration is a net positive because of demographic issues.
 
 I am attaching a summary of Zeihan's arguments for reference.
 

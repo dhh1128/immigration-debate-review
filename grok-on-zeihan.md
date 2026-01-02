@@ -1,3 +1,6 @@
+# Grok on Zeihan
+(prompt [here](prompt-on-zeihan))
+
 ### Peter Zeihan's Views on Immigration in *The Accidental Superpower*
 
 In his 2014 book *The Accidental Superpower*, geopolitical strategist Peter Zeihan argues that the United States holds a unique advantage over other developed countries because of three main factors: geography, energy independence from shale oil, and demographics. Immigration plays a key role in the demographics part, helping the U.S. avoid the severe "demographic implosion" that threatens many other nations.

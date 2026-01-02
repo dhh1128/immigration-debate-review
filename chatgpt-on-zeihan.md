@@ -1,3 +1,6 @@
+# Claude on Zeihan
+(prompt [here](prompt-on-zeihan))
+
 Below is a structured summary of Peter Zeihan’s arguments about immigration as they appear primarily in *The Accidental Superpower* (2014), with some clarification where those ideas are reiterated or sharpened in his later works (*The Absent Superpower*, *Disunited Nations*). I focus on themes that bear directly on economic-cost arguments like those advanced by Steven Camarota, especially claims about lifetime fiscal burden, labor markets, and social cohesion.
 
 I. Zeihan’s Core Frame: Demography as Destiny
