@@ -74,6 +74,8 @@ There is also another dimension to immigration and international relations: the 
 ## Summary
 On the whole, my deep dive on this topic has helped me discover some nuances I wasn't aware of before, and has convinced me that the simplistic stories that show up in memes and political headlines are doing us a disservice. I have not been convinced, after a serious study of the evidence, that immigration &mdash; even illegal immigration &mdash; is terrible for the country. This is true despite a sincere effort to consider the best evidence that MAGA advocates can muster. I'm convinced that it has costs, but also that it has economic benefits, and it looks to me like the two offset each other, roughly. Demographically, immigration feels like a huge win. From a legal perspective, it's muddy. We clearly need certain kinds of enforcement. However, I feel we need to cut with a razor, not a bludgeon, and that public perceptions of the fairness and reasonableness of law enforcement matter far more than immigration critics want to allow. Culturally, immigration has mixed effects, but I'd say the preponderance are quite positive, and that the negative effects are just part of being a pluralistic society. From a humanitarian perspective, immigration has a place, though the amount of immigration we permit, and the benefits we attribute, feel debatable.
 
+<hr>
+
 ## AI interactions
 
 - [Chatgpt On Camarota](chatgpt-on-camarota)
