@@ -32,7 +32,7 @@ Few of the legal arguments about immigration touch on cost, and I think that's a
 
 Bottom line: I think legal concerns about immigration are fair, but it's easy to exaggerate them, and we'd be better served by focusing partial enforcement efforts on true criminals. This is the avowed policy of our current administration, but numerous anecdotes tell me it's not reality, and that's a shame. [5]
 
-## Cultural impact
+### Cultural impact
 I think this is the most subjective dimension of the issue. Immigration, both legal and illegal, changes the ethnic and cultural composition of neighborhoods, school classes, and workplaces. Is that a good thing, a bad thing, or just a *thing*?
 
 I'm a little bit sympathetic to those who want to be surrounded by those who look like them physically or culturally. I was a religious minority for most of my childhood. It wasn't a terrible experience (I'd gladly move back to the parts of the midwest that I know and love), but there were a few moments of awkwardness and isolation, and I remember feeling happy to find more in common with my peers when I moved out west. The desire to fit in can be innocent and reasonable. Further, I believe that it's important to honor the language and culture where one lives by making a good faith effort to assimilate, which is why I invested heavily in learning French when I lived in the Suisse Romande.
@@ -45,7 +45,7 @@ Beyond its moral costs, prioritizing outward sameness is also profoundly short-s
 
 I do agree, strongly, with the concern that I mostly hear from MAGA folks about immigrants who have strong loyalties to worldviews that are inherently hostile to our own. A fondness for one's native country and one's family who resides there is not a negative characteristic in an immigrant &mdash; but a hatred for western pluralsim and a loyalty to crime, jihad, communism, and similar ideas should be a strict and immediate disqualifier.
 
-## Humanitarian impact
+### Humanitarian impact
 This section, and the next, depart a bit from the evidence that drove me to publish this analysis. I include the topics because they do arise in debates about immigration policy.
 
 Whether we should attempt to bring to pass global good with our tax dollars is an interesting question. I think the answer depends on the timeframe over which we evaluate the question, and what types of intervention we're considering (because some "humanitarian" choices actually offset other expenses that might be less efficient uses of our resources). I'll argue that below, in the section about international relations. But set that aside for a moment and just consider the question of whether immigration does or can have any humanitarian benefits.
@@ -60,7 +60,7 @@ Anyway, I think humanitarian considerations are more nuanced than the video allo
 * The benefits of having an immigrant become a US citizen with access to education and economic opportunity are not limited to that individual. They get passed on to future generations and to the larger US economy (as argued in the economic section above), but also to family members and strangers in foreign countries. Whatever help *is* accomplished by humanitarian decisions, its scope is far bigger than just the direct immigrant. (To argue otherwise is inconsistent with another argument of immigrant critics, which is that costs are greater than a single individual.)
 * The starfish argument still applies. You know the story: a boy is picking up starfish and throwing them back into the ocean. Someone critiques him because he can't possibly do this for all the starfish; he responds that although he can't make a difference for all, his actions certainly make a difference for some. At least some lost boys from Sudan certainly have better lives as refugee immigrants in the US than they would have had in their native country.
 
-## International relations impact
+### International relations impact
 I have not done research about, and I am not qualified to argue the details of, the effectiveness of foreign aid. I know this is a controversial question and that many US taxpayers are incensed that we would spend anything outside the boundaries of our own country, and I get it. I also don't dispute claims that some aid is misspent.
 
 However, I think purist claims about the categorical inappropriateness of foreign aid are short-sighted. If we could avoid getting entangled in a foreign war tomorrow that cost <var>X</var> billion by strategically spending <var>Y</var> million today, would that not be wise? (Yes, that's an important "if", but the arguments are usually made on principle, so I'm asking a questiona bout principle.)
