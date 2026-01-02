@@ -1,3 +1,4 @@
+# ChatGPT's response to my question about Cato Institute's bias
 In U.S. left–right terms, the **Cato Institute is best described as “libertarian / classical liberal,”** which usually maps to **right-of-center overall** (especially on economic and regulatory policy), while often aligning with the **left/center-left** on a subset of civil-liberties and immigration issues.
 
 ### 1) What Cato says it is (ideological self-placement)

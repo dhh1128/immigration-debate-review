@@ -1,3 +1,4 @@
+# ChatGPT's response to my question about Manhattan Institute's bias
 The **Manhattan Institute** is best described as **right-of-center / conservative (often “market-oriented” or “free-market conservative”)** in U.S. ideological terms. Multiple third-party bias raters place it on the **Right** or **Lean Right**, and the Institute’s own mission language emphasizes **economic freedom, individual responsibility, and policy approaches typically associated with U.S. conservatism**.
 
 ### 1) What the Manhattan Institute says it is (self-description that maps ideologically)
